@@ -1,0 +1,16 @@
+{
+  "name": "medium-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "Jack Hanford <jackhanford@gmail.com> (http://jackhanford.com)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "~0.16.1",
+    "micro": "~7.3.0",
+    "micro-cors": "~0.0.4"
+  }
+}
